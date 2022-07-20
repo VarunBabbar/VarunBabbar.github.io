@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Hi! I'm Varun Babbar, a recent graduate of the Masters in Engineering (MEng) programme at the University of Cambridge.
+Hi! I'm Varun Babbar, a 22 year old taking his first steps into a career in data science. I recently graduated with Masters in Engineering (MEng) from the University of Cambridge, where I obtained a Distinction.
 \\
 \\
 I'm really interested in quantitative analysis, mathematical modelling, machine learning, and statistics. I'm an incoming AI and Machine Learning Associate at JP Morgan, where I'll hopefully develop cutting edge ML techniques to solve hard computational problems (not necessarily in finance - this is a misconception about banks!)
