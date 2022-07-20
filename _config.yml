@@ -11,6 +11,7 @@ author:
 paginate: [Number of posts in one paginated section (default: 3)]
 owner: [Your name]
 year: [Current Year]
-baseurl: "/blogjekyll"
-
+#baseurl: "/blogjekyll"
+baseurl: ""
+url: "https://VarunBabbar.github.io"
 
