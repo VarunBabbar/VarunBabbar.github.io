@@ -5,7 +5,7 @@ title: About
 
 Hi! I'm Varun Babbar, a recent graduate of the Masters in Engineering programme at the University of Cambridge. \\ 
 \\
-I'm really interested in quantitative analysis, mathematical modelling, machine learning, and statistics. 
+I'm really interested in quantitative analysis, mathematical modelling, machine learning, and statistics. I'm an incoming AI and Machine Learning Associate at JP Morgan, where I'll hopefully develop cutting edge ML techniques to solve hard computational problems (not necessarily in finance - this is a misconception about banks!)
 \\
 \\
 I also love playing sports - any kind. Throughout my life, I have played basketball, football, squash, tennis, badminton, table tennis, pickleball, rounders and engaged in swimming, rock climbing, and touch rugby. Out of everything I have played, I'm probably the most proficient at squash, followed by basketball. \\
