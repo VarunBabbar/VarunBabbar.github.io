@@ -4,7 +4,6 @@ title: About
 ---
 
 Hi! I'm Varun Babbar, a recent graduate of the Masters in Engineering (MEng) programme at the University of Cambridge.
-
 \\
 \\
 I'm really interested in quantitative analysis, mathematical modelling, machine learning, and statistics. I'm an incoming AI and Machine Learning Associate at JP Morgan, where I'll hopefully develop cutting edge ML techniques to solve hard computational problems (not necessarily in finance - this is a misconception about banks!)
